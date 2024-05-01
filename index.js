@@ -4,7 +4,7 @@ let nome = "Claudy";
 let xp = 6200;
 let level = "";
 
-// Defindo a classificação do héroi
+// Definindo a classificação do héroi usando estrutura if e else
 
 if (xp < 1001) {
   level = "Ferro";
